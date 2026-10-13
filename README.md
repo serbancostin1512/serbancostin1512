@@ -1,16 +1,37 @@
-## Hi there 👋
 
-<!--
-**serbancostin1512/serbancostin1512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Costin 👋
 
-Here are some ideas to get you started:
+### Python Developer in Progress | AI & Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a student learning software development by building practical projects.
+
+Currently exploring Python, automation, and AI-powered applications.
+
+My goal is to turn ideas into useful software while continuously improving my programming skills.
+
+---
+
+### 🛠️ Technologies & Tools
+
+- Python — learning and building projects
+- Git & GitHub — version control and project management
+- VS Code — development environment
+
+### 🎯 Current Goals
+
+- Build practical Python applications
+- Improve problem-solving skills
+- Learn APIs and automation
+- Explore AI application development
+- Build a portfolio of real projects
+
+### 🚀 Projects
+
+*New projects coming soon.*
+
+---
+
+### 💡 My Philosophy
+
+> Learn by building. Improve by experimenting.
+
