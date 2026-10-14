@@ -1,37 +1,47 @@
-
 # Hey, I'm Costin 👋
 
 ### Python Developer in Progress | AI & Automation
 
-I'm a student learning software development by building practical projects.
+I'm a student building practical Python projects while developing my software development skills.
 
-Currently exploring Python, automation, and AI-powered applications.
+I enjoy solving problems, learning new technologies, and turning ideas into useful applications.
 
-My goal is to turn ideas into useful software while continuously improving my programming skills.
+## 🛠️ Technologies & Tools
 
----
+- **Language:** Python
+- **Version Control:** Git & GitHub
+- **Editor:** Visual Studio Code
+- **Currently learning:** Software development, automated testing, APIs and automation
 
-### 🛠️ Technologies & Tools
+## 🚀 Featured Projects
 
-- Python — learning and building projects
-- Git & GitHub — version control and project management
-- VS Code — development environment
+### 🔐 [Python Password Generator](https://github.com/serbancostin1512/python-password-generator)
+A command-line password generator with configurable character types and automated tests.
 
-### 🎯 Current Goals
+**Topics:** Python, secure random generation, validation, unit testing.
 
-- Build practical Python applications
-- Improve problem-solving skills
-- Learn APIs and automation
-- Explore AI application development
-- Build a portfolio of real projects
+### ✅ [Python Task Manager](https://github.com/serbancostin1512/python-task-manager)
+A command-line task manager that stores tasks locally and supports adding, completing and deleting tasks.
 
-### 🚀 Projects
+**Topics:** Python, JSON, file handling, unit testing.
 
-*New projects coming soon.*
+### 💰 [Python Expense Tracker](https://github.com/serbancostin1512/python-expense-tracker)
+A command-line application for recording expenses, reviewing spending history and calculating totals by category.
 
----
+**Topics:** Python, JSON, data handling, unit testing.
 
-### 💡 My Philosophy
+## 🎯 Current Goals
+
+- Improve my Python programming skills
+- Write clean, maintainable code
+- Build more advanced automation tools
+- Explore AI-powered applications and APIs
+- Grow my portfolio through practical projects
+
+## 💡 My Philosophy
 
 > Learn by building. Improve by experimenting.
 
+---
+
+*Building projects, learning from mistakes, and improving one step at a time.*
